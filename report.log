@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.29)  21 MAY 2017 03:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.29)  21 MAY 2017 03:58
 entering extended mode
 **./report.tex
 (report.tex
@@ -156,18 +156,13 @@ Overfull \hbox (13.6657pt too wide) in paragraph at lines 61--63
 
 File: image/Captuhhre.JPG Graphic file (type jpg)
 <use image/Captuhhre.JPG>
-Package pdftex.def Info: image/Captuhhre.JPG used on input line 65.
+Package pdftex.def Info: image/Captuhhre.JPG used on input line 66.
 (pdftex.def)             Requested size: 85.35893pt x 113.80792pt.
 File: image/Captuhhre.JPG Graphic file (type jpg)
  <use image/Captuhhre.JPG>
-Package pdftex.def Info: image/Captuhhre.JPG used on input line 66.
+Package pdftex.def Info: image/Captuhhre.JPG used on input line 67.
 (pdftex.def)             Requested size: 85.35893pt x 113.80792pt.
-
-Overfull \hbox (1.37553pt too wide) in paragraph at lines 64--67
-[]\OT1/cmr/m/n/10 Screen shots of the ap-pli-ca-tion used. [] [] 
- []
-
-[2 <./image/Captuhhre.JPG>] (report.aux) ) 
+ [2 <./image/Captuhhre.JPG>] (report.aux) ) 
 Here is how much of TeX's memory you used:
  1200 strings out of 493333
  17178 string characters out of 3139197
@@ -176,12 +171,12 @@ Here is how much of TeX's memory you used:
  7587 words of font info for 27 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,6n,25p,280b,189s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
-17.pfb>
-Output written on report.pdf (2 pages, 94667 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r17.pfb>
+Output written on report.pdf (2 pages, 94661 bytes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
